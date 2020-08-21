@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=diandengjun&show_icons=true">
+</a>
 
-<!--
-**DianDengJun/diandengjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DianDengJun
 
-Here are some ideas to get you started:
+> A student majoring in computer science in college.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diandengjun&hide=html,javascript,css)
+
+---
+
+<p align="center">COPYRIGHT © 2020 <a href="https://www.xxdiandeng.cn">DianDengJun</a>. | All Rights Reserverd.</p>
