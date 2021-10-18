@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=icodexin&show_icons=true">
 </a>
 
-# DianDengJun
+# I am code xin
 
 > A student majoring in computer science in college.
 
